@@ -47,5 +47,5 @@ This application performs real-time face detection and allows users to register 
 - Pillow
 - Tkinter
 
-## File Structure
+ 
 
