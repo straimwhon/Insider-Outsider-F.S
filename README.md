@@ -12,7 +12,7 @@ This application performs real-time face detection and allows users to register 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/facedetectionapp.git
+    git clone  https://github.com/straimwhon/Insider-Outsider-F.S.git
     cd facedetectionapp
     ```
 
